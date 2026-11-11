@@ -14,6 +14,10 @@
   Your agent pays once. It gets the result with a signed certificate, or its money back.
 </p>
 
+> **Warranty: a money-back guarantee for MPP payments.** Machine payments settle instantly and can't be undone, so an agent that pays a service and gets an error, a timeout or the wrong format has no recourse. Call the service through Warranty instead. You pay the service's price plus a small premium. Warranty pays the service, checks the result against your contract, and automatically refunds you if the result breaks it. Every call also feeds a public reliability score for MPP services.
+>
+> <sub>Refunds apply to covered services, meaning ones with a track record. New services are checked and certified but not refunded; see <a href="#why-the-pool-cannot-simply-be-drained">why</a>.</sub>
+
 ---
 
 ## Contents
