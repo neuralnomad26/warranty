@@ -1,0 +1,20 @@
+/node_modules
+/.next/
+/out/
+/build
+.DS_Store
+*.pem
+npm-debug.log*
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
+# secrets: never commit
+
+.projects/cache
+.projects/vault
+.projects/state.test.json
+.projects/state.local.test.json
+.env
+.env.*
+!.env.example

@@ -1,0 +1,142 @@
+{
+  "version": 4,
+  "project": {
+    "catalog": "prod",
+    "initializedAt": "2026-11-11T14:18:29.714Z",
+    "merchantDisplayName": null,
+    "merchantId": "acct_1UaYjJC3rQiuA1dv",
+    "projectId": "project_61Vk0JRoNT4flba4L16VjwgfKgGCuLFLHQZNbWDVIVUG",
+    "projectName": "debrief"
+  },
+  "providers": {
+    "elevenlabs": {
+      "accountRequestId": "fprvcnn_61VjyocMLbVdStVxO16VjwgfKgGCuLFLHQZNbWDVIUm0",
+      "configuration": {},
+      "linkedAt": "2026-11-11T12:42:34.380Z",
+      "providerId": "prvdr_61UYtnmm5DvySq8Ol56tE",
+      "providerName": "ElevenLabs",
+      "redirectUrl": null,
+      "requestedAt": "2026-11-11T12:42:34.380Z",
+      "status": "complete"
+    },
+    "firecrawl": {
+      "accountRequestId": "fprvcnn_61VjypCHkvxFSG2lE16VjwgfKgGCuLFLHQZNbWDVI2P2",
+      "configuration": {},
+      "linkedAt": "2026-11-11T12:43:10.111Z",
+      "providerId": "prvdr_61URa0AjsVCYCdagK5Xqy",
+      "providerName": "Firecrawl",
+      "redirectUrl": null,
+      "requestedAt": "2026-11-11T12:43:10.111Z",
+      "status": "complete"
+    },
+    "openrouter": {
+      "accountRequestId": "fprvcnn_61Vjyovpr3CPa8yIY16VjwgfKgGCuLFLHQZNbWDVIH0K",
+      "configuration": {},
+      "linkedAt": "2026-11-11T12:42:53.275Z",
+      "providerId": "prvdr_61URImmFACEuDHEx651IO",
+      "providerName": "OpenRouter",
+      "redirectUrl": null,
+      "requestedAt": "2026-11-11T12:42:53.275Z",
+      "status": "complete"
+    },
+    "supabase": {
+      "accountRequestId": "fprvcnn_61Vjypa7WaK9RZVPe16VjwgfKgGCuLFLHQZNbWDVIVp2",
+      "configuration": {},
+      "linkedAt": "2026-11-11T12:43:34.317Z",
+      "providerId": "prvdr_61UIXYHdsyF69pZbG52n2",
+      "providerName": "Supabase",
+      "redirectUrl": null,
+      "requestedAt": "2026-11-11T12:43:34.317Z",
+      "status": "complete"
+    },
+    "vercel": {
+      "accountRequestId": "fprvcnn_61VjyqQofM83P9hcI16VjwgfKgGCuLFLHQZNbWDVIBRg",
+      "configuration": {},
+      "linkedAt": "2026-11-11T12:44:26.169Z",
+      "providerId": "prvdr_61ULUAr4zlQgZkvXY5LsG",
+      "providerName": "Vercel",
+      "redirectUrl": null,
+      "requestedAt": "2026-11-11T12:44:26.169Z",
+      "status": "complete"
+    }
+  },
+  "resources": {
+    "debrief": {
+      "configuration": {
+        "name": "debrief",
+        "region": "americas"
+      },
+      "createdAt": "2026-11-11T14:19:53.843Z",
+      "lastRevealedAt": "2026-11-11T14:19:54.355Z",
+      "lastStatus": "complete",
+      "livemode": true,
+      "name": "debrief",
+      "providerId": "prvdr_61UIXYHdsyF69pZbG52n2",
+      "providerName": "Supabase",
+      "resourceId": "fres_61Vk0KTqmKFt9RskQ16VjwgfKgGCuLFLHQZNbWDVIWwC",
+      "serviceId": "project"
+    },
+    "debrief-2": {
+      "configuration": {
+        "name": "debrief"
+      },
+      "createdAt": "2026-11-11T14:20:03.735Z",
+      "lastRevealedAt": "2026-11-11T14:20:04.297Z",
+      "lastStatus": "complete",
+      "livemode": true,
+      "name": "debrief-2",
+      "providerId": "prvdr_61ULUAr4zlQgZkvXY5LsG",
+      "providerName": "Vercel",
+      "resourceId": "fres_61Vk0KvTtU4XWW1Rx16VjwgfKgGCuLFLHQZNbWDVI3o0",
+      "serviceId": "project"
+    },
+    "elevenlabs-tts": {
+      "configuration": {},
+      "createdAt": "2026-11-11T14:18:57.870Z",
+      "lastRevealedAt": "2026-11-11T14:18:58.275Z",
+      "lastStatus": "complete",
+      "livemode": true,
+      "name": "elevenlabs-tts",
+      "providerId": "prvdr_61UYtnmm5DvySq8Ol56tE",
+      "providerName": "ElevenLabs",
+      "resourceId": "fres_61Vk0Js1AvfdvB03G16VjwgfKgGCuLFLHQZNbWDVIGW0",
+      "serviceId": "tts"
+    },
+    "openrouter-api": {
+      "configuration": {},
+      "createdAt": "2026-11-11T14:19:02.907Z",
+      "lastRevealedAt": "2026-11-11T14:19:03.516Z",
+      "lastStatus": "complete",
+      "livemode": true,
+      "name": "openrouter-api",
+      "providerId": "prvdr_61URImmFACEuDHEx651IO",
+      "providerName": "OpenRouter",
+      "resourceId": "fres_61Vk0Jw3xjKIYpU6h16VjwgfKgGCuLFLHQZNbWDVI6Qa",
+      "serviceId": "api"
+    },
+    "supabase-plan": {
+      "configuration": {},
+      "createdAt": "2026-11-11T14:19:31.214Z",
+      "lastRevealedAt": "2026-11-11T14:19:31.727Z",
+      "lastStatus": "complete",
+      "livemode": true,
+      "name": "supabase-plan",
+      "providerId": "prvdr_61UIXYHdsyF69pZbG52n2",
+      "providerName": "Supabase",
+      "resourceId": "fres_61Vk0K7S3wYzKFl6a16VjwgfKgGCuLFLHQZNbWDVI4y8",
+      "serviceId": "free"
+    },
+    "vercel-plan": {
+      "configuration": {},
+      "createdAt": "2026-11-11T14:19:59.044Z",
+      "lastRevealedAt": "2026-11-11T14:19:59.639Z",
+      "lastStatus": "complete",
+      "livemode": true,
+      "name": "vercel-plan",
+      "providerId": "prvdr_61ULUAr4zlQgZkvXY5LsG",
+      "providerName": "Vercel",
+      "resourceId": "fres_61Vk0Kq76rg9TtYZP16VjwgfKgGCuLFLHQZNbWDVISYS",
+      "serviceId": "hobby"
+    }
+  }
+}

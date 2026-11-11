@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background:
+    radial-gradient(1200px 600px at 10% -10%, rgb(139 92 246 / 0.18), transparent 60%),
+    radial-gradient(900px 500px at 100% 0%, rgb(217 70 239 / 0.12), transparent 60%),
+    #09090b;
+  color: #f4f4f5;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Inter, sans-serif;
+}
