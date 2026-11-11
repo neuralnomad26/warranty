@@ -7,7 +7,7 @@ export async function GET(request: Request) {
   const o = env.publicOrigin() ?? new URL(request.url).origin;
   const text = `# Warranty
 
-> A money-back guarantee for MPP payments. Payments on the Tempo stablecoin rail are final: if the service you paid returns an error, the wrong format or nothing at all, you have no recourse. Call the service through Warranty instead. Warranty pays it for you, checks the result against a contract you supply, and refunds you automatically if a check fails.
+> A money-back guarantee for MPP payments. Stablecoin payments are final, so an agent that pays a service and gets an error or the wrong format has no recourse. Call the service through Warranty instead: it pays for you, checks the result against your contract, and refunds you automatically when a covered service fails.
 
 Network: ${env.testnet() ? "Tempo testnet (test funds only)" : "Tempo mainnet"}. Payment method: MPP, tempo charge.
 

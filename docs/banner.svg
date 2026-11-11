@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="Warranty: agent payments are final, Warranty makes them safe to make">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07090c"/><stop offset="1" stop-color="#0b1a16"/></linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.5" r="0.55"><stop offset="0" stop-color="#34d399" stop-opacity="0.28"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6ee7b7"/><stop offset="1" stop-color="#10b981"/></linearGradient>
+  </defs>
+  <rect width="1280" height="400" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="400" rx="28" fill="url(#glow)"/>
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="72" y="96" font-size="19" letter-spacing="5" fill="#34d399" font-weight="600">A REFUND LAYER FOR THE MACHINE PAYMENTS PROTOCOL</text>
+    <text x="72" y="190" font-size="92" font-weight="800" fill="#ffffff" letter-spacing="-3">Warranty</text>
+    <text x="72" y="246" font-size="30" fill="#d4d4d8">Agent payments are final.</text>
+    <text x="72" y="288" font-size="30" fill="#6ee7b7">Warranty makes them safe to make.</text>
+    <text x="72" y="344" font-size="18" fill="#71717a">402 → pay → check → result with a signed certificate, or your money back</text>
+  </g>
+  <g transform="translate(980 96)">
+    <path d="M104 0 L208 36 V112 C208 170 164 206 104 228 C44 206 0 170 0 112 V36 Z" fill="url(#shield)"/>
+    <path d="M104 22 L186 51 V112 C186 158 151 187 104 205 C57 187 22 158 22 112 V51 Z" fill="#07130f"/>
+    <path d="M62 114 L92 144 L148 84" fill="none" stroke="#6ee7b7" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

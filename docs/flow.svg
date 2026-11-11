@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 430" width="1280" height="430" role="img" aria-label="An agent pays Warranty, Warranty pays the service, checks the result, then returns the result with a certificate or refunds the agent">
+  <rect width="1280" height="430" rx="24" fill="#07090c"/>
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="40" y="50" font-size="15" letter-spacing="4" fill="#34d399" font-weight="600">ONE REQUEST IN, A RESULT OR A REFUND OUT</text>
+    <rect x="40" y="120" width="250" height="100" rx="18" fill="#11151a" stroke="#71717a" stroke-width="2"/>
+    <text x="165" y="164" font-size="22" font-weight="700" fill="#f4f4f5" text-anchor="middle">Your agent</text>
+    <text x="165" y="192" font-size="14" fill="#a1a1aa" text-anchor="middle">has a wallet and a contract</text>
+    <rect x="515" y="120" width="250" height="100" rx="18" fill="#11151a" stroke="#34d399" stroke-width="2"/>
+    <text x="640" y="164" font-size="22" font-weight="700" fill="#f4f4f5" text-anchor="middle">Warranty</text>
+    <text x="640" y="192" font-size="14" fill="#a1a1aa" text-anchor="middle">MPP server and MPP client</text>
+    <rect x="990" y="120" width="250" height="100" rx="18" fill="#11151a" stroke="#71717a" stroke-width="2"/>
+    <text x="1115" y="164" font-size="22" font-weight="700" fill="#f4f4f5" text-anchor="middle">Any MPP service</text>
+    <text x="1115" y="192" font-size="14" fill="#a1a1aa" text-anchor="middle">takes payment, returns… something</text>
+    <path d="M290 150 H507" stroke="#e4e4e7" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M505 143 L515 150 L505 157" fill="none" stroke="#e4e4e7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="402.5" y="138" font-size="14" fill="#e4e4e7" text-anchor="middle" font-weight="600">1. pays price + premium</text>
+    <path d="M765 150 H982" stroke="#e4e4e7" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M980 143 L990 150 L980 157" fill="none" stroke="#e4e4e7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="877.5" y="138" font-size="14" fill="#e4e4e7" text-anchor="middle" font-weight="600">2. pays the service's price</text>
+    <path d="M990 192 H773" stroke="#a1a1aa" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="7 7"/>
+    <path d="M775 185 L765 192 L775 199" fill="none" stroke="#a1a1aa" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="877.5" y="214" font-size="14" fill="#a1a1aa" text-anchor="middle" font-weight="600">3. response + receipt</text>
+    <rect x="430" y="262" width="420" height="62" rx="14" fill="#0b1a16" stroke="#34d399" stroke-width="1.5"/>
+    <text x="640" y="288" font-size="14" fill="#6ee7b7" text-anchor="middle" font-weight="600">4. checks against your contract</text>
+    <text x="640" y="309" font-size="12.5" fill="#a1a1aa" text-anchor="middle">status · format · schema · size · speed · price · receipt</text>
+    <path d="M640 220 V262" stroke="#34d399" stroke-width="2"/>
+    <path d="M430 293 H330 V340" fill="none" stroke="#34d399" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M850 293 H950 V340" fill="none" stroke="#fb7185" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="150" y="340" width="360" height="62" rx="14" fill="#0b1a16" stroke="#34d399" stroke-width="2"/>
+    <text x="330" y="366" font-size="16" fill="#6ee7b7" text-anchor="middle" font-weight="700">PASS</text>
+    <text x="330" y="388" font-size="13.5" fill="#d4d4d8" text-anchor="middle">the result + the service's receipt + a signed certificate</text>
+    <rect x="770" y="340" width="360" height="62" rx="14" fill="#1a0b10" stroke="#fb7185" stroke-width="2"/>
+    <text x="950" y="366" font-size="16" fill="#fda4af" text-anchor="middle" font-weight="700">FAIL</text>
+    <text x="950" y="388" font-size="13.5" fill="#d4d4d8" text-anchor="middle">full refund to the agent's wallet + the reason</text>
+  </g>
+</svg>

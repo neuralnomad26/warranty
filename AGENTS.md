@@ -1,7 +1,7 @@
 <!-- stripe-projects-cli managed:agents-md:start -->
 ## Stripe Projects CLI
 
-This repository is initialized for the Stripe project "debrief".
+This repository is initialized for the Stripe project "debrief" (the project was created under an earlier working name; the product is Warranty).
 
 ## Tools used
 
